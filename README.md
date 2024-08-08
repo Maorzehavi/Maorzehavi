@@ -7,7 +7,6 @@ Full Stack Developer
 Hello! I'm a passionate, dedicated full-stack developer with a strong foundation in various programming languages and technologies. I have learned my skills at JohnBryce Academy and gained practical experience in building robust and scalable applications. As an autodidact and quick learner, I continuously seek to expand my knowledge and stay updated with the latest industry trends.
 
 * 🌍  I'm based in Israel
-* ✉️  You can contact me at [maorzehavi@outlook.com](mailto:maorzehavi@outlook.com)
 
 ### Skills
 
@@ -19,14 +18,7 @@ Hello! I'm a passionate, dedicated full-stack developer with a strong foundation
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/maorzehavi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/maorzehavi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a><a href="mailto:maorzehavi@outlook.com" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn-icons-png.flaticon.com/128/732/732223.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn-icons-png.flaticon.com/128/732/732223.png" />
-    <img src="https://cdn-icons-png.flaticon.com/128/732/732223.png" width="32" height="32" alt="Outlook" />
-  </picture>
-</a>
-</p>
+<p align="left"> <a href="https://discord.com/users/maorzehavi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/maorzehavi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a><a href="mailto:maorzehavi@outlook.com" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/732/732223.png" width="32" height="32" alt="Outlook" /></a></p>
 
 ### Badges
 
